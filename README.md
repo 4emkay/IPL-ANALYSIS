@@ -1,2 +1,2 @@
 # IPLyisis
-Data Analysis n Premier League Data Descriptions
+Data Analysis of Premier League Data Descriptions
